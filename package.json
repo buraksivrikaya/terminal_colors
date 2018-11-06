@@ -1,0 +1,22 @@
+{
+  "name": "terminal_colors",
+  "version": "1.0.0",
+  "description": "colorful terminals",
+  "main": "TerminalColorsExamples.js",
+  "scripts": {
+    "examples": "node TerminalColorsExamples.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buraksivrikaya/terminal_colors.git"
+  },
+  "keywords": [
+    "terminal"
+  ],
+  "author": "buraks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buraksivrikaya/terminal_colors/issues"
+  },
+  "homepage": "https://github.com/buraksivrikaya/terminal_colors#readme"
+}
